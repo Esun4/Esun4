@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi! I'm Ethan 👋
+
+## 🚀 About Me
+- 🎓 CS @ University of Waterloo
+- Firmware @ **Electrium Mobility**
+- Passionate about using software and hardware to solve problems
+
 
 <!--
 **Esun4/Esun4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
