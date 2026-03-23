@@ -1,7 +1,7 @@
 ## Hi! I'm Ethan 👋
 
 ## 🚀 About Me
-- 🎓 CS @ University of Waterloo
+- CS @ University of Waterloo
 - Firmware @ **Electrium Mobility**
 - Passionate about using software and hardware to solve problems
 
