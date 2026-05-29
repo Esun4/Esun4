@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - CS @ University of Waterloo
-- Firmware @ **Electrium Mobility**
+- Software Engineer Intern @ **Skrypt AI Labs**
 - Passionate about using software and hardware to solve problems
 
 
