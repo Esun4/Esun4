@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - CS @ University of Waterloo
-- Software Engineer Intern @ **Skrypt AI Labs**
+- Software Engineer Intern @ **Skrypt Health**
 - Passionate about using software and hardware to solve problems
 
 
